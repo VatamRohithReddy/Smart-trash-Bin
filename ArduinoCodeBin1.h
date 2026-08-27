@@ -7,7 +7,7 @@
 // WiFi and Firebase configuration
 #define WIFI_SSID "Redmi"
 #define WIFI_PASSWORD "88888888"
-#define API_KEY "AIzaSyBjtSX01P4dC0XiSkshnfqPXWmsgjdIrQs"
+#define API_KEY "AIzaSyBjtSX01P4dC0XiSkshnfqPXWmsgjdIrQs" 
 #define DATABASE_URL "https://smart-trashbin-50572-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
 FirebaseData fbdo;
