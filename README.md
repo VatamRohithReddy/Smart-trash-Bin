@@ -104,6 +104,6 @@ This allows users to remotely monitor multiple smart dustbins and identify bins 
 
 ---
 
-## 👨‍💻 Conclusin
+## 👨‍💻 Conclusion
 
 This project demonstrates the integration of **IoT, embedded systems, cloud databases, sensors, and mobile applications** for smart waste-management.
